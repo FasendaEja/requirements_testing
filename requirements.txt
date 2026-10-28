@@ -1,0 +1,7 @@
+# Зависимости также описаны в pyproject.toml ([project].dependencies).
+# Файл сохранён для совместимости: pip install -r requirements.txt
+openai>=1.0.0
+python-docx>=1.1.0
+pypdf>=4.0.0
+openpyxl>=3.1.0
+olefile>=0.47
